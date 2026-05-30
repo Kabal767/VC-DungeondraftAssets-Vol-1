@@ -1,0 +1,2 @@
+VCS_shadow_bold.png
+VCS_shadow_medium.png

@@ -1,0 +1,135 @@
+{
+  "tags": {
+    "[VC]Rocks": [
+      "textures/objects/rocks/VCS_rock_01.png",
+      "textures/objects/rocks/VCS_rock_02.png",
+      "textures/objects/rocks/VCS_rock_03.png",
+      "textures/objects/rocks/VCS_rock_04.png",
+      "textures/objects/rocks/VCS_rock_05.png",
+      "textures/objects/rocks/VCS_rock_06.png",
+      "textures/objects/rocks/VCS_rock_07.png",
+      "textures/objects/rocks/VCS_rock_08.png",
+      "textures/objects/rocks/VCS_rock_09.png",
+      "textures/objects/rocks/VCS_rock_10.png",
+      "textures/objects/rocks/VCS_rock_11.png",
+      "textures/objects/rocks/VCS_rock_12.png",
+      "textures/objects/rocks/VCS_rock_13.png"
+    ],
+    "[VC]Trees": [
+      "textures/objects/forest_props/VCS_pine_01.png",
+      "textures/objects/forest_props/VCS_pine_02.png",
+      "textures/objects/forest_props/VCS_pine_03.png",
+      "textures/objects/forest_props/VCS_pine_04.png"
+    ],
+    "[VC]World-Trees": [
+      "textures/objects/world/VCS_WM_jungleTrees_01.png",
+      "textures/objects/world/VCS_WM_jungleTrees_02.png",
+      "textures/objects/world/VCS_WM_jungleTrees_03.png",
+      "textures/objects/world/VCS_WM_jungleTrees_04.png",
+      "textures/objects/world/VCS_WM_jungleTrees_05.png",
+      "textures/objects/world/VCS_WM_caneTrees_01.png",
+      "textures/objects/world/VCS_WM_caneTrees_02.png",
+      "textures/objects/world/VCS_WM_caneTrees_03.png"
+    ],
+    "[VC]World-Swamp": [
+      "textures/objects/world/VCS_WM_water_01.png",
+      "textures/objects/world/VCS_WM_water_02.png",
+      "textures/objects/world/VCS_WM_water_03.png",
+      "textures/objects/world/VCS_WM_water_04.png",
+      "textures/objects/world/VCS_WM_water_05.png",
+      "textures/objects/world/VCS_WM_corndogs_01.png",
+      "textures/objects/world/VCS_WM_corndogs_02.png",
+      "textures/objects/world/VCS_WM_corndogs_03.png",
+      "textures/objects/world/VCS_WM_corndogs_04.png"
+    ],
+    "[VC]World-Settlements": [
+      "textures/objects/world/VCS_WM_settlements_aablaya.png",
+      "textures/objects/world/VCS_WM_settlements_budaxa.png",
+      "textures/objects/world/VCS_WM_settlements_mukt'innia.png",
+      "textures/objects/world/VCS_WM_settlements_big.png"
+    ],
+    "[VC]World-Colorless-Mountains": [
+      "textures/objects/world_colorless/VCS_WM_mountains_01.png",
+      "textures/objects/world_colorless/VCS_WM_mountains_02.png",
+      "textures/objects/world_colorless/VCS_WM_mountains_03.png",
+      "textures/objects/world_colorless/VCS_WM_mountains_04.png",
+      "textures/objects/world_colorless/VCS_WM_mountains_05.png",
+      "textures/objects/world_colorless/VCS_WM_mountains_06.png",
+      "textures/objects/world_colorless/VCS_WM_mountains_07.png",
+      "textures/objects/world_colorless/VCS_WM_mountains_08.png",
+      "textures/objects/world_colorless/VCS_WM_mountains_09.png",
+      "textures/objects/world_colorless/VCS_WM_mountains_soft_01.png",
+      "textures/objects/world_colorless/VCS_WM_mountains_soft_02.png",
+      "textures/objects/world_colorless/VCS_WM_mountains_soft_03.png",
+      "textures/objects/world_colorless/VCS_WM_mountains_soft_04.png"
+    ],
+    "[VC]World-Colorless-Ruins": [
+      "textures/objects/world_colorless/VCS_WM_ruins_01.png",
+      "textures/objects/world_colorless/VCS_WM_ruins_02.png",
+      "textures/objects/world_colorless/VCS_WM_ruins_03.png",
+      "textures/objects/world_colorless/VCS_WM_ruins_04.png",
+      "textures/objects/world_colorless/VCS_WM_ruins_05.png",
+      "textures/objects/world_colorless/VCS_WM_ruins_06.png",
+      "textures/objects/world_colorless/VCS_WM_ruins_small_01.png",
+      "textures/objects/world_colorless/VCS_WM_ruins_small_02.png",
+      "textures/objects/world_colorless/VCS_WM_ruins_small_03.png",
+      "textures/objects/world_colorless/VCS_WM_ruins_small_04.png",
+      "textures/objects/world_colorless/VCS_WM_ruins_small_05.png",
+      "textures/objects/world_colorless/VCS_WM_ruins_small_06.png"
+    ],
+    "[VC]World-Colorless-Settlements": [
+      "textures/objects/world_colorless/VCS_WM_settlements_aablaya.png",
+      "textures/objects/world_colorless/VCS_WM_settlements_budaxa.png",
+      "textures/objects/world_colorless/VCS_WM_settlements_mukt'innia.png"
+    ],
+    "[VC]World-Colorless-Hills": [
+      "textures/objects/world_colorless/VCS_WM_hills_01.png",
+      "textures/objects/world_colorless/VCS_WM_hills_02.png",
+      "textures/objects/world_colorless/VCS_WM_hills_03.png",
+      "textures/objects/world_colorless/VCS_WM_hills_04.png",
+      "textures/objects/world_colorless/VCS_WM_hills_05.png"
+    ],
+    "[VC]World-Colorless-Swamp": [
+      "textures/objects/world_colorless/VCS_WM_corndogs_01.png",
+      "textures/objects/world_colorless/VCS_WM_corndogs_02.png",
+      "textures/objects/world_colorless/VCS_WM_corndogs_03.png",
+      "textures/objects/world_colorless/VCS_WM_corndogs_04.png",
+      "textures/objects/world_colorless/VCS_WM_water_01.png",
+      "textures/objects/world_colorless/VCS_WM_water_02.png",
+      "textures/objects/world_colorless/VCS_WM_water_03.png",
+      "textures/objects/world_colorless/VCS_WM_water_04.png",
+      "textures/objects/world_colorless/VCS_WM_water_05.png"
+    ],
+    "[VC]World-Colorless-Trees": [
+      "textures/objects/world_colorless/VCS_WM_caneTrees_01.png",
+      "textures/objects/world_colorless/VCS_WM_caneTrees_02.png",
+      "textures/objects/world_colorless/VCS_WM_caneTrees_03.png",
+      "textures/objects/world_colorless/VCS_WM_jungleTrees_01.png",
+      "textures/objects/world_colorless/VCS_WM_jungleTrees_02.png",
+      "textures/objects/world_colorless/VCS_WM_jungleTrees_03.png",
+      "textures/objects/world_colorless/VCS_WM_jungleTrees_04.png",
+      "textures/objects/world_colorless/VCS_WM_jungleTrees_05.png",
+      "textures/objects/world_colorless/VCS_WM_jungleTrees_big_01.png"
+    ],
+    "Colorable": []
+  },
+  "sets": {
+    "[VC]Nature": [
+      "[VC]Rocks",
+      "[VC]Trees"
+    ],
+    "[VC]World-Map": [
+      "[VC]World-Trees",
+      "[VC]World-Swamp",
+      "[VC]World-Settlements"
+    ],
+    "[VC]World-Map-Colorless": [
+      "[VC]World-Colorless-Trees",
+      "[VC]World-Colorless-Swamp",
+      "[VC]World-Colorless-Settlements",
+      "[VC]World-Colorless-Mountains",
+      "[VC]World-Colorless-Hills",
+      "[VC]World-Colorless-Ruins"
+    ]
+  }
+}
