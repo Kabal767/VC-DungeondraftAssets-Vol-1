@@ -111,6 +111,18 @@
       "textures/objects/world_colorless/VCS_WM_jungleTrees_05.png",
       "textures/objects/world_colorless/VCS_WM_jungleTrees_big_01.png"
     ],
+    "[VC]World-Colorless-Mini": [
+      "textures/objects/world_colorless/VCS_WM_miniProps_01.png",
+      "textures/objects/world_colorless/VCS_WM_miniProps_02.png",
+      "textures/objects/world_colorless/VCS_WM_miniProps_03.png",
+      "textures/objects/world_colorless/VCS_WM_miniProps_04.png",
+      "textures/objects/world_colorless/VCS_WM_miniProps_05.png",
+      "textures/objects/world_colorless/VCS_WM_miniProps_06.png",
+      "textures/objects/world_colorless/VCS_WM_miniProps_07.png",
+      "textures/objects/world_colorless/VCS_WM_miniProps_08.png",
+      "textures/objects/world_colorless/VCS_WM_miniProps_09.png",
+      "textures/objects/world_colorless/VCS_WM_miniProps_10.png",
+    ]
     "Colorable": []
   },
   "sets": {
@@ -129,7 +141,8 @@
       "[VC]World-Colorless-Settlements",
       "[VC]World-Colorless-Mountains",
       "[VC]World-Colorless-Hills",
-      "[VC]World-Colorless-Ruins"
+      "[VC]World-Colorless-Ruins",
+      "[VC]World-Colorless-Mini"
     ]
   }
 }
