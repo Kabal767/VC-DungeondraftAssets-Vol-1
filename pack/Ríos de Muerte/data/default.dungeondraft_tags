@@ -1,6 +1,24 @@
 {
   "tags": {
-    "[VC]Rocks": [
+    "[2MT]Stone": [
+      "textures/objects/stone/furniture/VCS_cornerTable_stone_01.png",
+      "textures/objects/stone/furniture/VCS_stone_hearth.png",
+      "textures/objects/stone/furniture/VCS_wall_fountain_01.png"
+    ],
+    "[2MT]Vehicle": [
+      "textures/objects/vehicles/VCS_wagon_rich_move.png"
+    ],
+    "Furniture": [
+      "textures/objects/stone/furniture/VCS_cornerTable_stone_01.png",
+      "textures/objects/stone/furniture/VCS_wall_fountain_01.png",
+      "textures/objects/wood/furniture/VCS_churchBench.png"
+    ],
+    "Pillar": [
+      "textures/objects/shadows/VCS_pillars_stone_01.png",
+      "textures/objects/shadows/VCS_pillars_stone_02.png",
+      "textures/objects/shadows/VCS_pillars_stone_03.png"
+    ],
+    "Rock": [
       "textures/objects/rocks/VCS_rock_01.png",
       "textures/objects/rocks/VCS_rock_02.png",
       "textures/objects/rocks/VCS_rock_03.png",
@@ -13,13 +31,65 @@
       "textures/objects/rocks/VCS_rock_10.png",
       "textures/objects/rocks/VCS_rock_11.png",
       "textures/objects/rocks/VCS_rock_12.png",
-      "textures/objects/rocks/VCS_rock_13.png"
+      "textures/objects/rocks/VCS_rock_13.png",
+      "textures/objects/rocks/VCS_rock_14.png",
+      "textures/objects/rocks/VCS_rock_15.png",
+      "textures/objects/rocks/VCS_rock_16.png",
+      "textures/objects/rocks/VCS_rock_17.png",
+      "textures/objects/rocks/VCS_rock_18.png"
     ],
-    "[VC]Trees": [
+    "Vegetation" [
+      "textures/objects/jungles/VCS_jungle_herbs_01.png",
+      "textures/objects/jungles/VCS_jungle_herbs_02.png",
+      "textures/objects/jungles/VCS_jungle_herbs_03.png",
+      "textures/objects/jungles/VCS_jungle_herbs_04.png",
+      "textures/objects/jungles/VCS_jungle_herbs_05.png",
+      "textures/objects/jungles/VCS_jungle_plants_01.png",
+      "textures/objects/jungles/VCS_jungle_plants_02.png",
+      "textures/objects/jungles/VCS_jungle_plants_03.png",
+      "textures/objects/jungles/VCS_jungle_plants_04.png",
+      "textures/objects/jungles/VCS_jungle_plants_05.png",
+      "textures/objects/jungles/VCS_jungle_plants_06.png",
+      "textures/objects/jungles/VCS_jungle_plants_07.png",
+      "textures/objects/jungles/VCS_jungle_plants_08.png",
+      "textures/objects/jungles/VCS_jungle_plants_09.png",
+      "textures/objects/jungles/VCS_jungle_plants_10.png",
+      "textures/objects/jungles/VCS_jungle_plants_11.png",
+      "textures/objects/jungles/VCS_jungle_roots_01.png",
+      "textures/objects/jungles/VCS_jungle_roots_02.png",
+      "textures/objects/jungles/VCS_jungle_roots_03.png",
+      "textures/objects/jungles/VCS_jungle_roots_04.png",
+      "textures/objects/jungles/VCS_jungle_roots_05.png",
+      "textures/objects/jungles/VCS_jungle_roots_06.png"
+    ],
+    "Camp": [
+      "textures/objects/nature/VCS_bedroll_closed_01.png",
+      "textures/objects/nature/VCS_bedroll_closed_02.png",
+      "textures/objects/nature/VCS_bedroll_open_01.png",
+      "textures/objects/nature/VCS_bedroll_open_02.png",
+      "textures/objects/nature/VCS_bedroll_open_03.png",
+      "textures/objects/nature/VCS_bedroll_open_04.png",
+      "textures/objects/nature/VCS_bedroll_open_05.png"
+    ],
+    "Shadows": [
+      "textures/objects/shadows/VCS_shadowCircle_1.png"
+    ],
+    "Shelf":[
+      "textures/objects/shadows/VCS_cornerTable_stone_01.png",
+    ],
+    "Tree": [
       "textures/objects/forest_props/VCS_pine_01.png",
       "textures/objects/forest_props/VCS_pine_02.png",
       "textures/objects/forest_props/VCS_pine_03.png",
       "textures/objects/forest_props/VCS_pine_04.png"
+    ],
+    "Tent": [
+      "textures/objects/fabric/tents/VCS_tent_poles_short.png",
+      "textures/objects/fabric/tents/VCS_wall_tent_01.png",
+      "textures/objects/fabric/tents/VCS_wall_tent_02.png",
+    ],
+    "Wagon" [      
+      "textures/objects/vehicles/VCS_wagon_rich_move.png"
     ],
     "[VC]World-Trees": [
       "textures/objects/world/VCS_WM_jungleTrees_01.png",
@@ -121,14 +191,14 @@
       "textures/objects/world_colorless/VCS_WM_miniProps_07.png",
       "textures/objects/world_colorless/VCS_WM_miniProps_08.png",
       "textures/objects/world_colorless/VCS_WM_miniProps_09.png",
-      "textures/objects/world_colorless/VCS_WM_miniProps_10.png",
+      "textures/objects/world_colorless/VCS_WM_miniProps_10.png"
     ],
     "Colorable": []
   },
   "sets": {
     "[VC]Nature": [
-      "[VC]Rocks",
-      "[VC]Trees"
+      "Rock",
+      "Tree"
     ],
     "[VC]World-Map": [
       "[VC]World-Trees",

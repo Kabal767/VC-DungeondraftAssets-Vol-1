@@ -1,0 +1,7 @@
+"textures/objects/nature/VCS_bedroll_closed_01.png",
+"textures/objects/nature/VCS_bedroll_closed_02.png",
+"textures/objects/nature/VCS_bedroll_open_01.png",
+"textures/objects/nature/VCS_bedroll_open_02.png",
+"textures/objects/nature/VCS_bedroll_open_03.png",
+"textures/objects/nature/VCS_bedroll_open_04.png",
+"textures/objects/nature/VCS_bedroll_open_05.png",

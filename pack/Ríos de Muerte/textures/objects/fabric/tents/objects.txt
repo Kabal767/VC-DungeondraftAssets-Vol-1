@@ -1,0 +1,3 @@
+"textures/objects/fabric/tents/VCS_tent_poles_short.png",
+"textures/objects/fabric/tents/VCS_wall_tent_01.png",
+"textures/objects/fabric/tents/VCS_wall_tent_02.png",

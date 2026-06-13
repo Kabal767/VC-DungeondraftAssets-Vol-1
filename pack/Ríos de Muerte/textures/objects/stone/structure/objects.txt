@@ -1,0 +1,3 @@
+"textures/objects/shadows/VCS_pillars_stone_01.png",
+"textures/objects/shadows/VCS_pillars_stone_02.png",
+"textures/objects/shadows/VCS_pillars_stone_03.png",

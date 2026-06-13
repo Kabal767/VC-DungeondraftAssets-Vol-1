@@ -1,3 +1,0 @@
-VCS_WM_path.png
-VCS_WM_rivers.png
-VCS_WM_road.png
