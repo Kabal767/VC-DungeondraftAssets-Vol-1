@@ -8,15 +8,104 @@
     "[2MT]Vehicle": [
       "textures/objects/vehicles/VCS_wagon_rich_move.png"
     ],
+    "Colorable": [
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_0.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_1.png",
+      "textures/objects/batch_01/small_props/VCS_dining_colorable_0.png",
+      "textures/objects/batch_01/small_props/VCS_dining_colorable_1.png",
+      "textures/objects/batch_01/small_props/VCS_dining_colorable_6.png",
+      "textures/objects/batch_01/small_props/VCS_recipients_colorable_0.png",
+      "textures/objects/batch_01/small_props/VCS_recipients_colorable_2.png"
+    ],
+    "VCS-Recipients": [
+      "textures/objects/batch_01/small_props/VCS_recipients_colorable_0.png",
+      "textures/objects/batch_01/small_props/VCS_recipients_colorable_2.png",
+      "textures/objects/batch_01/small_props/VCS_recipients_0.png",
+      "textures/objects/batch_01/small_props/VCS_recipients_1.png",
+      "textures/objects/batch_01/small_props/VCS_recipients_2.png",
+      "textures/objects/batch_01/small_props/VCS_recipients_3.png",
+      "textures/objects/batch_01/small_props/VCS_recipients_4.png"
+    ],
+    "VCS-Religious": [
+      "textures/objects/batch_01/small_props/VCS_religious_item 0.png",
+      "textures/objects/batch_01/small_props/VCS_religious_item 1.png"
+    ],
+    "Dining": [
+      "textures/objects/batch_01/small_props/VCS_dining_colorable_0.png",
+      "textures/objects/batch_01/small_props/VCS_dining_colorable_1.png",
+      "textures/objects/batch_01/small_props/VCS_dining_colorable_6.png",
+      "textures/objects/batch_01/small_props/VCS_dining_0.png",
+      "textures/objects/batch_01/small_props/VCS_dining_1.png",
+      "textures/objects/batch_01/small_props/VCS_dining_10.png",
+      "textures/objects/batch_01/small_props/VCS_dining_11.png",
+      "textures/objects/batch_01/small_props/VCS_dining_12.png",
+      "textures/objects/batch_01/small_props/VCS_dining_13.png",
+      "textures/objects/batch_01/small_props/VCS_dining_14.png",
+      "textures/objects/batch_01/small_props/VCS_dining_15.png",
+      "textures/objects/batch_01/small_props/VCS_dining_16.png",
+      "textures/objects/batch_01/small_props/VCS_dining_17.png",
+      "textures/objects/batch_01/small_props/VCS_dining_2.png",
+      "textures/objects/batch_01/small_props/VCS_dining_3.png",
+      "textures/objects/batch_01/small_props/VCS_dining_4.png",
+      "textures/objects/batch_01/small_props/VCS_dining_5.png",
+      "textures/objects/batch_01/small_props/VCS_dining_6.png",
+      "textures/objects/batch_01/small_props/VCS_dining_7.png",
+      "textures/objects/batch_01/small_props/VCS_dining_8.png",
+      "textures/objects/batch_01/small_props/VCS_dining_9.png"
+    ],
+    "Clutter": [
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_0.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_1.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_0.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_1.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_2.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_3.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_4.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_5.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_6.png"
+    ],
+    "Administration": [
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_0.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_1.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_0.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_1.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_2.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_3.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_4.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_5.png",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_6.png"
+    ],
     "Furniture": [
       "textures/objects/stone/furniture/VCS_cornerTable_stone_01.png",
       "textures/objects/stone/furniture/VCS_wall_fountain_01.png",
-      "textures/objects/wood/furniture/VCS_churchBench.png"
+      "textures/objects/wood/furniture/VCS_churchBench.png",
+      "textures/objects/wood/furniture/VCS_chest_01.png",
+      "textures/objects/wood/furniture/VCS_chest_02.png",
+      "textures/objects/wood/furniture/VCS_churchBench.png",
+      "textures/objects/wood/furniture/VCS_crate_01.png",
+      "textures/objects/wood/furniture/VCS_crate_02.png",
+      "textures/objects/wood/furniture/VCS_crate_03.png",
+      "textures/objects/wood/furniture/VCS_crate_04.png",
+      "textures/objects/wood/furniture/VCS_crate_05.png",
+      "textures/objects/wood/furniture/VCS_crate_06.png",
+      "textures/objects/wood/furniture/VCS_crate_07.png",
+      "textures/objects/wood/furniture/VCS_crate_08.png",
+      "textures/objects/wood/furniture/VCS_crate_09.png",
+      "textures/objects/wood/furniture/VCS_stool_01.png",
+      "textures/objects/wood/furniture/VCS_wooden_barrel_01.png",
+      "textures/objects/wood/furniture/VCS_wooden_barrel_02.png",
+      "textures/objects/wood/furniture/VCS_wooden_barrel_03.png",
+      "textures/objects/wood/furniture/VCS_wooden_barrel_04.png",
+      "textures/objects/wood/furniture/VCS_wooden_barrel_05.png"
     ],
-    "Pillar": [
-      "textures/objects/shadows/VCS_pillars_stone_01.png",
-      "textures/objects/shadows/VCS_pillars_stone_02.png",
-      "textures/objects/shadows/VCS_pillars_stone_03.png"
+    "Structure": [
+      "textures/objects/stone/structure/VCS_pillars_stone_01.png",
+      "textures/objects/stone/structure/VCS_pillars_stone_02.png",
+      "textures/objects/stone/structure/VCS_pillars_stone_03.png",
+      "textures/objects/stone/structure/VCS_pillars_stone_04.png",
+      "textures/objects/stone/structure/VCS_pillars_stone_05.png",
+      "textures/objects/stone/structure/VCS_pillars_stone_06.png",
+      "textures/objects/stone/structure/VCS_pillars_stone_07.png"
     ],
     "Rock": [
       "textures/objects/rocks/VCS_rock_01.png",
@@ -37,6 +126,26 @@
       "textures/objects/rocks/VCS_rock_16.png",
       "textures/objects/rocks/VCS_rock_17.png",
       "textures/objects/rocks/VCS_rock_18.png"
+    ],
+    "Military": [
+      "textures/objects/militar/VCS_small_cage_01.png",
+      "textures/objects/militar/VCS_small_cage_02.png"
+    ],
+    "Lighting": [
+      "textures/objects/light/VCS_signal_pyre.png",
+      "textures/objects/batch_01/small_props/VCS_lighting_0.png",
+      "textures/objects/batch_01/small_props/VCS_lighting_1.png",
+      "textures/objects/batch_01/small_props/VCS_lighting_10.png",
+      "textures/objects/batch_01/small_props/VCS_lighting_11.png",
+      "textures/objects/batch_01/small_props/VCS_lighting_12.png",
+      "textures/objects/batch_01/small_props/VCS_lighting_2.png",
+      "textures/objects/batch_01/small_props/VCS_lighting_3.png",
+      "textures/objects/batch_01/small_props/VCS_lighting_4.png",
+      "textures/objects/batch_01/small_props/VCS_lighting_5.png",
+      "textures/objects/batch_01/small_props/VCS_lighting_6.png",
+      "textures/objects/batch_01/small_props/VCS_lighting_7.png",
+      "textures/objects/batch_01/small_props/VCS_lighting_8.png",
+      "textures/objects/batch_01/small_props/VCS_lighting_9.png"
     ],
     "Vegetation": [
       "textures/objects/jungle/VCS_jungle_herbs_01.png",
@@ -91,7 +200,15 @@
     "Wagon": [      
       "textures/objects/vehicles/VCS_wagon_rich_move.png"
     ],
-    "[VC]World-Trees": [
+    "Wood": [
+      "textures/objects/batch_01/small_props/VCS_firewood_1.png",
+      "textures/objects/batch_01/small_props/VCS_firewood_2.png"
+    ],
+    "Instrument": [      
+      "textures/objects/batch_01/small_props/VCS_instruments_0.png",
+      "textures/objects/batch_01/small_props/VCS_instruments_1.png"
+    ],
+    "VCS-World-Trees": [
       "textures/objects/world/VCS_WM_jungleTrees_01.png",
       "textures/objects/world/VCS_WM_jungleTrees_02.png",
       "textures/objects/world/VCS_WM_jungleTrees_03.png",
@@ -101,7 +218,7 @@
       "textures/objects/world/VCS_WM_caneTrees_02.png",
       "textures/objects/world/VCS_WM_caneTrees_03.png"
     ],
-    "[VC]World-Swamp": [
+    "VCS-World-Swamp": [
       "textures/objects/world/VCS_WM_water_01.png",
       "textures/objects/world/VCS_WM_water_02.png",
       "textures/objects/world/VCS_WM_water_03.png",
@@ -112,13 +229,13 @@
       "textures/objects/world/VCS_WM_corndogs_03.png",
       "textures/objects/world/VCS_WM_corndogs_04.png"
     ],
-    "[VC]World-Settlements": [
+    "VCS-World-Settlements": [
       "textures/objects/world/VCS_WM_settlements_aablaya.png",
       "textures/objects/world/VCS_WM_settlements_budaxa.png",
       "textures/objects/world/VCS_WM_settlements_mukt'innia.png",
       "textures/objects/world/VCS_WM_settlements_big.png"
     ],
-    "[VC]World-Colorless-Mountains": [
+    "VCS-World-Colorless-Mountains": [
       "textures/objects/world_colorless/VCS_WM_mountains_01.png",
       "textures/objects/world_colorless/VCS_WM_mountains_02.png",
       "textures/objects/world_colorless/VCS_WM_mountains_03.png",
@@ -133,7 +250,7 @@
       "textures/objects/world_colorless/VCS_WM_mountains_soft_03.png",
       "textures/objects/world_colorless/VCS_WM_mountains_soft_04.png"
     ],
-    "[VC]World-Colorless-Ruins": [
+    "VCS-World-Colorless-Ruins": [
       "textures/objects/world_colorless/VCS_WM_ruins_01.png",
       "textures/objects/world_colorless/VCS_WM_ruins_02.png",
       "textures/objects/world_colorless/VCS_WM_ruins_03.png",
@@ -147,19 +264,19 @@
       "textures/objects/world_colorless/VCS_WM_ruins_small_05.png",
       "textures/objects/world_colorless/VCS_WM_ruins_small_06.png"
     ],
-    "[VC]World-Colorless-Settlements": [
+    "VCS-World-Colorless-Settlements": [
       "textures/objects/world_colorless/VCS_WM_settlements_aablaya.png",
       "textures/objects/world_colorless/VCS_WM_settlements_budaxa.png",
       "textures/objects/world_colorless/VCS_WM_settlements_mukt'innia.png"
     ],
-    "[VC]World-Colorless-Hills": [
+    "VCS-World-Colorless-Hills": [
       "textures/objects/world_colorless/VCS_WM_hills_01.png",
       "textures/objects/world_colorless/VCS_WM_hills_02.png",
       "textures/objects/world_colorless/VCS_WM_hills_03.png",
       "textures/objects/world_colorless/VCS_WM_hills_04.png",
       "textures/objects/world_colorless/VCS_WM_hills_05.png"
     ],
-    "[VC]World-Colorless-Swamp": [
+    "VCS-World-Colorless-Swamp": [
       "textures/objects/world_colorless/VCS_WM_corndogs_01.png",
       "textures/objects/world_colorless/VCS_WM_corndogs_02.png",
       "textures/objects/world_colorless/VCS_WM_corndogs_03.png",
@@ -170,7 +287,7 @@
       "textures/objects/world_colorless/VCS_WM_water_04.png",
       "textures/objects/world_colorless/VCS_WM_water_05.png"
     ],
-    "[VC]World-Colorless-Trees": [
+    "VCS-World-Colorless-Trees": [
       "textures/objects/world_colorless/VCS_WM_caneTrees_01.png",
       "textures/objects/world_colorless/VCS_WM_caneTrees_02.png",
       "textures/objects/world_colorless/VCS_WM_caneTrees_03.png",
@@ -181,7 +298,7 @@
       "textures/objects/world_colorless/VCS_WM_jungleTrees_05.png",
       "textures/objects/world_colorless/VCS_WM_jungleTrees_big_01.png"
     ],
-    "[VC]World-Colorless-Mini": [
+    "VCS-World-Colorless-Mini": [
       "textures/objects/world_colorless/VCS_WM_miniProps_01.png",
       "textures/objects/world_colorless/VCS_WM_miniProps_02.png",
       "textures/objects/world_colorless/VCS_WM_miniProps_03.png",
@@ -192,27 +309,26 @@
       "textures/objects/world_colorless/VCS_WM_miniProps_08.png",
       "textures/objects/world_colorless/VCS_WM_miniProps_09.png",
       "textures/objects/world_colorless/VCS_WM_miniProps_10.png"
-    ],
-    "Colorable": []
+    ]
   },
   "sets": {
-    "[VC]Nature": [
+    "VCS-Nature": [
       "Rock",
       "Tree"
     ],
-    "[VC]World-Map": [
-      "[VC]World-Trees",
-      "[VC]World-Swamp",
-      "[VC]World-Settlements"
+    "VCS-World-Map": [
+      "VCS-World-Trees",
+      "VCS-World-Swamp",
+      "VCS-World-Settlements"
     ],
-    "[VC]World-Map-Colorless": [
-      "[VC]World-Colorless-Trees",
-      "[VC]World-Colorless-Swamp",
-      "[VC]World-Colorless-Settlements",
-      "[VC]World-Colorless-Mountains",
-      "[VC]World-Colorless-Hills",
-      "[VC]World-Colorless-Ruins",
-      "[VC]World-Colorless-Mini"
+    "VCS-World-Map-Colorless": [
+      "VCS-World-Colorless-Trees",
+      "VCS-World-Colorless-Swamp",
+      "VCS-World-Colorless-Settlements",
+      "VCS-World-Colorless-Mountains",
+      "VCS-World-Colorless-Hills",
+      "VCS-World-Colorless-Ruins",
+      "VCS-World-Colorless-Mini"
     ]
   }
 }

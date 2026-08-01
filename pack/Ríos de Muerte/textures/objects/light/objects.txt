@@ -1,0 +1,3 @@
+"textures/objects/light/VCS_signal_pyre.png",
+"textures/objects/light/VCS_torch_holder_01.png",
+"textures/objects/light/VCS_torch_holder_02.png",

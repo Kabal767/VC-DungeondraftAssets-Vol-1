@@ -1,0 +1,2 @@
+"textures/objects/militar/VCS_small_cage_01.png",
+"textures/objects/militar/VCS_small_cage_02.png",
