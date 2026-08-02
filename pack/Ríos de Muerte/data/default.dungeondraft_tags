@@ -9,71 +9,72 @@
       "textures/objects/vehicles/VCS_wagon_rich_move.png"
     ],
     "Colorable": [
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_0.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_1.png",
-      "textures/objects/batch_01/small_props/VCS_dining_colorable_0.png",
-      "textures/objects/batch_01/small_props/VCS_dining_colorable_1.png",
-      "textures/objects/batch_01/small_props/VCS_dining_colorable_6.png",
-      "textures/objects/batch_01/small_props/VCS_recipients_colorable_0.png",
-      "textures/objects/batch_01/small_props/VCS_recipients_colorable_2.png"
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_end 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_end 1.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_colorable_end 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_colorable_end 1.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_colorable_end 6.PNG",
+      "textures/objects/batch_01/small_props/VCS_recipients_colorable_end 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_recipients_colorable_end 2.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles_colorable 4.PNG"
     ],
     "VCS-Recipients": [
-      "textures/objects/batch_01/small_props/VCS_recipients_colorable_0.png",
-      "textures/objects/batch_01/small_props/VCS_recipients_colorable_2.png",
-      "textures/objects/batch_01/small_props/VCS_recipients_0.png",
-      "textures/objects/batch_01/small_props/VCS_recipients_1.png",
-      "textures/objects/batch_01/small_props/VCS_recipients_2.png",
-      "textures/objects/batch_01/small_props/VCS_recipients_3.png",
-      "textures/objects/batch_01/small_props/VCS_recipients_4.png"
+      "textures/objects/batch_01/small_props/VCS_recipients_colorable_end 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_recipients_colorable_end 2.PNG",
+      "textures/objects/batch_01/small_props/VCS_recipients_end 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_recipients_end 1.PNG",
+      "textures/objects/batch_01/small_props/VCS_recipients_end 2.PNG",
+      "textures/objects/batch_01/small_props/VCS_recipients_end 3.PNG",
+      "textures/objects/batch_01/small_props/VCS_recipients_end 4.PNG"
     ],
     "VCS-Religious": [
-      "textures/objects/batch_01/small_props/VCS_religious_item 0.png",
-      "textures/objects/batch_01/small_props/VCS_religious_item 1.png"
+      "textures/objects/batch_01/small_props/VCS_religious_item 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_religious_item 1.PNG"
     ],
     "Dining": [
-      "textures/objects/batch_01/small_props/VCS_dining_colorable_0.png",
-      "textures/objects/batch_01/small_props/VCS_dining_colorable_1.png",
-      "textures/objects/batch_01/small_props/VCS_dining_colorable_6.png",
-      "textures/objects/batch_01/small_props/VCS_dining_0.png",
-      "textures/objects/batch_01/small_props/VCS_dining_1.png",
-      "textures/objects/batch_01/small_props/VCS_dining_10.png",
-      "textures/objects/batch_01/small_props/VCS_dining_11.png",
-      "textures/objects/batch_01/small_props/VCS_dining_12.png",
-      "textures/objects/batch_01/small_props/VCS_dining_13.png",
-      "textures/objects/batch_01/small_props/VCS_dining_14.png",
-      "textures/objects/batch_01/small_props/VCS_dining_15.png",
-      "textures/objects/batch_01/small_props/VCS_dining_16.png",
-      "textures/objects/batch_01/small_props/VCS_dining_17.png",
-      "textures/objects/batch_01/small_props/VCS_dining_2.png",
-      "textures/objects/batch_01/small_props/VCS_dining_3.png",
-      "textures/objects/batch_01/small_props/VCS_dining_4.png",
-      "textures/objects/batch_01/small_props/VCS_dining_5.png",
-      "textures/objects/batch_01/small_props/VCS_dining_6.png",
-      "textures/objects/batch_01/small_props/VCS_dining_7.png",
-      "textures/objects/batch_01/small_props/VCS_dining_8.png",
-      "textures/objects/batch_01/small_props/VCS_dining_9.png"
+      "textures/objects/batch_01/small_props/VCS_dining_colorable_end 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_colorable_end 1.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_colorable_end 6.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 1.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 10.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 11.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 12.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 13.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 14.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 15.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 16.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 17.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 2.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 3.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 4.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 5.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 6.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 7.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 8.PNG",
+      "textures/objects/batch_01/small_props/VCS_dining_end 9.PNG"
     ],
     "Clutter": [
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_0.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_1.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_0.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_1.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_2.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_3.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_4.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_5.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_6.png"
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_end 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_end 1.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 1.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 2.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 3.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 4.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 5.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 6.PNG"
     ],
     "Administration": [
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_0.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_1.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_0.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_1.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_2.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_3.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_4.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_5.png",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_6.png"
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_end 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_end 1.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 1.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 2.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 3.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 4.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 5.PNG",
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 6.PNG"
     ],
     "Furniture": [
       "textures/objects/stone/furniture/VCS_cornerTable_stone_01.png",
@@ -105,7 +106,12 @@
       "textures/objects/stone/structure/VCS_pillars_stone_04.png",
       "textures/objects/stone/structure/VCS_pillars_stone_05.png",
       "textures/objects/stone/structure/VCS_pillars_stone_06.png",
-      "textures/objects/stone/structure/VCS_pillars_stone_07.png"
+      "textures/objects/stone/structure/VCS_pillars_stone_07.png",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 0.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 1.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 2.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 3.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles_colorable 4.PNG"
     ],
     "Rock": [
       "textures/objects/rocks/VCS_rock_01.png",
@@ -129,23 +135,31 @@
     ],
     "Military": [
       "textures/objects/militar/VCS_small_cage_01.png",
-      "textures/objects/militar/VCS_small_cage_02.png"
+      "textures/objects/militar/VCS_small_cage_02.png",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 0.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 1.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 2.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 3.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles_colorable 4.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_jungle_traps 0.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_jungle_traps 1.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_jungle_traps 2.PNG"
     ],
     "Lighting": [
       "textures/objects/light/VCS_signal_pyre.png",
-      "textures/objects/batch_01/small_props/VCS_lighting_0.png",
-      "textures/objects/batch_01/small_props/VCS_lighting_1.png",
-      "textures/objects/batch_01/small_props/VCS_lighting_10.png",
-      "textures/objects/batch_01/small_props/VCS_lighting_11.png",
-      "textures/objects/batch_01/small_props/VCS_lighting_12.png",
-      "textures/objects/batch_01/small_props/VCS_lighting_2.png",
-      "textures/objects/batch_01/small_props/VCS_lighting_3.png",
-      "textures/objects/batch_01/small_props/VCS_lighting_4.png",
-      "textures/objects/batch_01/small_props/VCS_lighting_5.png",
-      "textures/objects/batch_01/small_props/VCS_lighting_6.png",
-      "textures/objects/batch_01/small_props/VCS_lighting_7.png",
-      "textures/objects/batch_01/small_props/VCS_lighting_8.png",
-      "textures/objects/batch_01/small_props/VCS_lighting_9.png"
+      "textures/objects/batch_01/small_props/VCS_lighting_end 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_lighting_end 1.PNG",
+      "textures/objects/batch_01/small_props/VCS_lighting_end 10.PNG",
+      "textures/objects/batch_01/small_props/VCS_lighting_end 11.PNG",
+      "textures/objects/batch_01/small_props/VCS_lighting_end 12.PNG",
+      "textures/objects/batch_01/small_props/VCS_lighting_end 2.PNG",
+      "textures/objects/batch_01/small_props/VCS_lighting_end 3.PNG",
+      "textures/objects/batch_01/small_props/VCS_lighting_end 4.PNG",
+      "textures/objects/batch_01/small_props/VCS_lighting_end 5.PNG",
+      "textures/objects/batch_01/small_props/VCS_lighting_end 6.PNG",
+      "textures/objects/batch_01/small_props/VCS_lighting_end 7.PNG",
+      "textures/objects/batch_01/small_props/VCS_lighting_end 8.PNG",
+      "textures/objects/batch_01/small_props/VCS_lighting_end 9.PNG"
     ],
     "Vegetation": [
       "textures/objects/jungle/VCS_jungle_herbs_01.png",
@@ -201,13 +215,26 @@
       "textures/objects/vehicles/VCS_wagon_rich_move.png"
     ],
     "Wood": [
-      "textures/objects/batch_01/small_props/VCS_firewood_1.png",
-      "textures/objects/batch_01/small_props/VCS_firewood_2.png"
+      "textures/objects/batch_01/small_props/VCS_firewood_end 1.PNG",
+      "textures/objects/batch_01/small_props/VCS_firewood_end 2.PNG"
     ],
     "Instrument": [      
-      "textures/objects/batch_01/small_props/VCS_instruments_0.png",
-      "textures/objects/batch_01/small_props/VCS_instruments_1.png"
+      "textures/objects/batch_01/small_props/VCS_instruments_end 0.PNG",
+      "textures/objects/batch_01/small_props/VCS_instruments_end 1.PNG"
     ],
+    "Fire":[
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 0.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 1.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 2.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 3.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 4.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 5.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 6.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_embers 0.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_embers 1.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_embers 2.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_embers 3.PNG"
+    ]
     "VCS-World-Trees": [
       "textures/objects/world/VCS_WM_jungleTrees_01.png",
       "textures/objects/world/VCS_WM_jungleTrees_02.png",
