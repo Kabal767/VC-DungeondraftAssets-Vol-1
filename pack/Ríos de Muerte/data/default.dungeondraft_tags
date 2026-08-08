@@ -3,7 +3,16 @@
     "[2MT]Stone": [
       "textures/objects/stone/furniture/VCS_cornerTable_stone_01.png",
       "textures/objects/stone/furniture/VCS_stone_hearth.png",
-      "textures/objects/stone/furniture/VCS_wall_fountain_01.png"
+      "textures/objects/stone/furniture/VCS_wall_fountain_01.png",
+      "textures/objects/cript_props/VCS_blue_debry 0.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 1.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 2.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 3.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 4.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 5.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 6.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 7.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 8.PNG"
     ],
     "[2MT]Vehicle": [
       "textures/objects/vehicles/VCS_wagon_rich_move.png"
@@ -16,7 +25,8 @@
       "textures/objects/batch_01/small_props/VCS_dining_colorable_end 6.PNG",
       "textures/objects/batch_01/small_props/VCS_recipients_colorable_end 0.PNG",
       "textures/objects/batch_01/small_props/VCS_recipients_colorable_end 2.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles_colorable 4.PNG"
+      "textures/objects/cript_props/VCS_jewelry_colorable 2.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_charau-ka_poles_colorable 4.PNG"
     ],
     "VCS-Recipients": [
       "textures/objects/batch_01/small_props/VCS_recipients_colorable_end 0.PNG",
@@ -63,7 +73,10 @@
       "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 3.PNG",
       "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 4.PNG",
       "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 5.PNG",
-      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 6.PNG"
+      "textures/objects/batch_01/small_props/VCS_calligraphy_tools_end 6.PNG",
+      "textures/objects/cript_props/VCS_jewelry 0.PNG",
+      "textures/objects/cript_props/VCS_jewelry 1.PNG",
+      "textures/objects/cript_props/VCS_jewelry_colorable 2.PNG"
     ],
     "Administration": [
       "textures/objects/batch_01/small_props/VCS_calligraphy_tools_colorable_end 0.PNG",
@@ -107,11 +120,27 @@
       "textures/objects/stone/structure/VCS_pillars_stone_05.png",
       "textures/objects/stone/structure/VCS_pillars_stone_06.png",
       "textures/objects/stone/structure/VCS_pillars_stone_07.png",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 0.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 1.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 2.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 3.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles_colorable 4.PNG"
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_charau-ka_poles 0.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_charau-ka_poles 1.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_charau-ka_poles 2.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_charau-ka_poles 3.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_charau-ka_poles_colorable 4.PNG",
+      "textures/objects/cript_props/VCS_chain_window.PNG"
+    ],
+    "Contraptions": [      
+      "textures/objects/cript_props/VCS_mechanism_wheel.PNG",
+      "textures/objects/cript_props/VCS_chain_window.PNG"
+    ],
+    "Grave": [            
+      "textures/objects/cript_props/VCS_dwarf_body.PNG"
+    ],
+    "Doors": [
+      "textures/objects/cript_props/VCS_great_door.PNG"
+    ],
+    "Treasure": [      
+      "textures/objects/cript_props/VCS_jewelry 0.PNG",
+      "textures/objects/cript_props/VCS_jewelry 1.PNG",
+      "textures/objects/cript_props/VCS_jewelry_colorable 2.PNG"
     ],
     "Rock": [
       "textures/objects/rocks/VCS_rock_01.png",
@@ -136,14 +165,14 @@
     "Military": [
       "textures/objects/militar/VCS_small_cage_01.png",
       "textures/objects/militar/VCS_small_cage_02.png",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 0.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 1.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 2.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles 3.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_charau-ka_poles_colorable 4.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_jungle_traps 0.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_jungle_traps 1.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_jungle_traps 2.PNG"
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_charau-ka_poles 0.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_charau-ka_poles 1.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_charau-ka_poles 2.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_charau-ka_poles 3.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_charau-ka_poles_colorable 4.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_jungle_traps 0.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_jungle_traps 1.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_jungle_traps 2.PNG"
     ],
     "Lighting": [
       "textures/objects/light/VCS_signal_pyre.png",
@@ -222,18 +251,29 @@
       "textures/objects/batch_01/small_props/VCS_instruments_end 0.PNG",
       "textures/objects/batch_01/small_props/VCS_instruments_end 1.PNG"
     ],
-    "Fire":[
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 0.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 1.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 2.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 3.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 4.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 5.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_burnt_tree 6.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_embers 0.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_embers 1.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_embers 2.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfare/VCS_embers 3.PNG"
+    "Debris": [
+      "textures/objects/cript_props/VCS_blue_debry 0.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 1.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 2.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 3.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 4.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 5.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 6.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 7.PNG",
+      "textures/objects/cript_props/VCS_blue_debry 8.PNG"
+    ],
+    "Fire": [
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_burnt_tree 0.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_burnt_tree 1.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_burnt_tree 2.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_burnt_tree 3.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_burnt_tree 4.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_burnt_tree 5.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_burnt_tree 6.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_embers 0.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_embers 1.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_embers 2.PNG",
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_embers 3.PNG"
     ],
     "VCS-World-Trees": [
       "textures/objects/world/VCS_WM_jungleTrees_01.png",
