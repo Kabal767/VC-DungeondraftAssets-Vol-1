@@ -273,7 +273,19 @@
       "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_embers 0.PNG",
       "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_embers 1.PNG",
       "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_embers 2.PNG",
-      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_embers 3.PNG"
+      "textures/objects/VCS_charau-ka_jungle_warfrare/VCS_embers 3.PNG",
+      "textures/objects/wildfire_trees/VCS_wildfire_trees 0.PNG",
+      "textures/objects/wildfire_trees/VCS_wildfire_trees 1.PNG",
+      "textures/objects/wildfire_trees/VCS_wildfire_trees 10.PNG",
+      "textures/objects/wildfire_trees/VCS_wildfire_trees 11.PNG",
+      "textures/objects/wildfire_trees/VCS_wildfire_trees 2.PNG",
+      "textures/objects/wildfire_trees/VCS_wildfire_trees 3.PNG",
+      "textures/objects/wildfire_trees/VCS_wildfire_trees 4.PNG",
+      "textures/objects/wildfire_trees/VCS_wildfire_trees 5.PNG",
+      "textures/objects/wildfire_trees/VCS_wildfire_trees 6.PNG",
+      "textures/objects/wildfire_trees/VCS_wildfire_trees 7.PNG",
+      "textures/objects/wildfire_trees/VCS_wildfire_trees 8.PNG",
+      "textures/objects/wildfire_trees/VCS_wildfire_trees 9.PNG"
     ],
     "VCS-World-Trees": [
       "textures/objects/world/VCS_WM_jungleTrees_01.png",
